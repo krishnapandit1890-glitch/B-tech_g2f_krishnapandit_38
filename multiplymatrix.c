@@ -18,7 +18,7 @@ int main()
     // MULTIPLY THE ABOVE TWO MATRIX
     for(i=0;i<3;i++){
         for(j=0;j<3;j++){
-            c[i][j]=0;22222222222222222222
+            c[i][j]=0;
             for(k=0;k<3;k++){
                 c[i][j]+=a[i][j]*b[i][j];
             }
